@@ -1,0 +1,6 @@
+C:\Users\людмила\Desktop\Seminars\Tasks05\obj\Debug\net6.0\Tasks05.GlobalUsings.g.cs
+C:\Users\людмила\Desktop\Seminars\Tasks05\obj\Debug\net6.0\Tasks05.csproj.AssemblyReference.cache
+C:\Users\людмила\Desktop\Seminars\Tasks05\obj\Debug\net6.0\Tasks05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\людмила\Desktop\Seminars\Tasks05\obj\Debug\net6.0\Tasks05.AssemblyInfoInputs.cache
+C:\Users\людмила\Desktop\Seminars\Tasks05\obj\Debug\net6.0\Tasks05.AssemblyInfo.cs
+C:\Users\людмила\Desktop\Seminars\Tasks05\obj\Debug\net6.0\Tasks05.csproj.CoreCompileInputs.cache
