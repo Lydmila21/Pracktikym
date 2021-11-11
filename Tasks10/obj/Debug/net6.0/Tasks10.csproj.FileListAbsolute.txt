@@ -1,0 +1,16 @@
+C:\Users\людмила\Desktop\Seminars\Tasks10\obj\Debug\net6.0\Tasks10.GlobalUsings.g.cs
+C:\Users\людмила\Desktop\Seminars\Tasks10\obj\Debug\net6.0\Tasks10.csproj.AssemblyReference.cache
+C:\Users\людмила\Desktop\Seminars\Tasks10\obj\Debug\net6.0\Tasks10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\людмила\Desktop\Seminars\Tasks10\obj\Debug\net6.0\Tasks10.AssemblyInfoInputs.cache
+C:\Users\людмила\Desktop\Seminars\Tasks10\obj\Debug\net6.0\Tasks10.AssemblyInfo.cs
+C:\Users\людмила\Desktop\Seminars\Tasks10\obj\Debug\net6.0\Tasks10.csproj.CoreCompileInputs.cache
+C:\Users\людмила\Desktop\Seminars\Tasks10\bin\Debug\net6.0\Tasks10.exe
+C:\Users\людмила\Desktop\Seminars\Tasks10\bin\Debug\net6.0\Tasks10.deps.json
+C:\Users\людмила\Desktop\Seminars\Tasks10\bin\Debug\net6.0\Tasks10.runtimeconfig.json
+C:\Users\людмила\Desktop\Seminars\Tasks10\bin\Debug\net6.0\Tasks10.dll
+C:\Users\людмила\Desktop\Seminars\Tasks10\bin\Debug\net6.0\ref\Tasks10.dll
+C:\Users\людмила\Desktop\Seminars\Tasks10\bin\Debug\net6.0\Tasks10.pdb
+C:\Users\людмила\Desktop\Seminars\Tasks10\obj\Debug\net6.0\Tasks10.dll
+C:\Users\людмила\Desktop\Seminars\Tasks10\obj\Debug\net6.0\ref\Tasks10.dll
+C:\Users\людмила\Desktop\Seminars\Tasks10\obj\Debug\net6.0\Tasks10.pdb
+C:\Users\людмила\Desktop\Seminars\Tasks10\obj\Debug\net6.0\Tasks10.genruntimeconfig.cache
