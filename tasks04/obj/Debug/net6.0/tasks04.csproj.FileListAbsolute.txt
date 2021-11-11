@@ -1,0 +1,16 @@
+C:\Users\людмила\Desktop\Seminars\tasks04\obj\Debug\net6.0\tasks04.GlobalUsings.g.cs
+C:\Users\людмила\Desktop\Seminars\tasks04\obj\Debug\net6.0\tasks04.csproj.AssemblyReference.cache
+C:\Users\людмила\Desktop\Seminars\tasks04\obj\Debug\net6.0\tasks04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\людмила\Desktop\Seminars\tasks04\obj\Debug\net6.0\tasks04.AssemblyInfoInputs.cache
+C:\Users\людмила\Desktop\Seminars\tasks04\obj\Debug\net6.0\tasks04.AssemblyInfo.cs
+C:\Users\людмила\Desktop\Seminars\tasks04\obj\Debug\net6.0\tasks04.csproj.CoreCompileInputs.cache
+C:\Users\людмила\Desktop\Seminars\tasks04\bin\Debug\net6.0\tasks04.exe
+C:\Users\людмила\Desktop\Seminars\tasks04\bin\Debug\net6.0\tasks04.deps.json
+C:\Users\людмила\Desktop\Seminars\tasks04\bin\Debug\net6.0\tasks04.runtimeconfig.json
+C:\Users\людмила\Desktop\Seminars\tasks04\bin\Debug\net6.0\tasks04.dll
+C:\Users\людмила\Desktop\Seminars\tasks04\bin\Debug\net6.0\ref\tasks04.dll
+C:\Users\людмила\Desktop\Seminars\tasks04\bin\Debug\net6.0\tasks04.pdb
+C:\Users\людмила\Desktop\Seminars\tasks04\obj\Debug\net6.0\tasks04.dll
+C:\Users\людмила\Desktop\Seminars\tasks04\obj\Debug\net6.0\ref\tasks04.dll
+C:\Users\людмила\Desktop\Seminars\tasks04\obj\Debug\net6.0\tasks04.pdb
+C:\Users\людмила\Desktop\Seminars\tasks04\obj\Debug\net6.0\tasks04.genruntimeconfig.cache
