@@ -1,0 +1,16 @@
+C:\Users\людмила\Desktop\Seminars\Tasks31\bin\Debug\net6.0\Tasks31.exe
+C:\Users\людмила\Desktop\Seminars\Tasks31\bin\Debug\net6.0\Tasks31.deps.json
+C:\Users\людмила\Desktop\Seminars\Tasks31\bin\Debug\net6.0\Tasks31.runtimeconfig.json
+C:\Users\людмила\Desktop\Seminars\Tasks31\bin\Debug\net6.0\Tasks31.dll
+C:\Users\людмила\Desktop\Seminars\Tasks31\bin\Debug\net6.0\ref\Tasks31.dll
+C:\Users\людмила\Desktop\Seminars\Tasks31\bin\Debug\net6.0\Tasks31.pdb
+C:\Users\людмила\Desktop\Seminars\Tasks31\obj\Debug\net6.0\Tasks31.GlobalUsings.g.cs
+C:\Users\людмила\Desktop\Seminars\Tasks31\obj\Debug\net6.0\Tasks31.csproj.AssemblyReference.cache
+C:\Users\людмила\Desktop\Seminars\Tasks31\obj\Debug\net6.0\Tasks31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\людмила\Desktop\Seminars\Tasks31\obj\Debug\net6.0\Tasks31.AssemblyInfoInputs.cache
+C:\Users\людмила\Desktop\Seminars\Tasks31\obj\Debug\net6.0\Tasks31.AssemblyInfo.cs
+C:\Users\людмила\Desktop\Seminars\Tasks31\obj\Debug\net6.0\Tasks31.csproj.CoreCompileInputs.cache
+C:\Users\людмила\Desktop\Seminars\Tasks31\obj\Debug\net6.0\Tasks31.dll
+C:\Users\людмила\Desktop\Seminars\Tasks31\obj\Debug\net6.0\ref\Tasks31.dll
+C:\Users\людмила\Desktop\Seminars\Tasks31\obj\Debug\net6.0\Tasks31.pdb
+C:\Users\людмила\Desktop\Seminars\Tasks31\obj\Debug\net6.0\Tasks31.genruntimeconfig.cache
