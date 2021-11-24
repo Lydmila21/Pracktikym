@@ -1,0 +1,16 @@
+C:\Users\людмила\Desktop\Seminars\Tasks08\obj\Debug\net6.0\Tasks08.GlobalUsings.g.cs
+C:\Users\людмила\Desktop\Seminars\Tasks08\obj\Debug\net6.0\Tasks08.csproj.AssemblyReference.cache
+C:\Users\людмила\Desktop\Seminars\Tasks08\obj\Debug\net6.0\Tasks08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\людмила\Desktop\Seminars\Tasks08\obj\Debug\net6.0\Tasks08.AssemblyInfoInputs.cache
+C:\Users\людмила\Desktop\Seminars\Tasks08\obj\Debug\net6.0\Tasks08.AssemblyInfo.cs
+C:\Users\людмила\Desktop\Seminars\Tasks08\obj\Debug\net6.0\Tasks08.csproj.CoreCompileInputs.cache
+C:\Users\людмила\Desktop\Seminars\Tasks08\bin\Debug\net6.0\Tasks08.exe
+C:\Users\людмила\Desktop\Seminars\Tasks08\bin\Debug\net6.0\Tasks08.deps.json
+C:\Users\людмила\Desktop\Seminars\Tasks08\bin\Debug\net6.0\Tasks08.runtimeconfig.json
+C:\Users\людмила\Desktop\Seminars\Tasks08\bin\Debug\net6.0\Tasks08.dll
+C:\Users\людмила\Desktop\Seminars\Tasks08\bin\Debug\net6.0\ref\Tasks08.dll
+C:\Users\людмила\Desktop\Seminars\Tasks08\bin\Debug\net6.0\Tasks08.pdb
+C:\Users\людмила\Desktop\Seminars\Tasks08\obj\Debug\net6.0\Tasks08.dll
+C:\Users\людмила\Desktop\Seminars\Tasks08\obj\Debug\net6.0\ref\Tasks08.dll
+C:\Users\людмила\Desktop\Seminars\Tasks08\obj\Debug\net6.0\Tasks08.pdb
+C:\Users\людмила\Desktop\Seminars\Tasks08\obj\Debug\net6.0\Tasks08.genruntimeconfig.cache
